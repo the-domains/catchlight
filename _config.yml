@@ -1,0 +1,28 @@
+name: catchlight
+favicon: null
+layout_spectrum: 0.010726972483098507
+typography_spectrum: 0.1547896235715598
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3921574403066188
+  lightness: 0.8161640698090196
+  saturation: 0.8395688303280622
+  rhythmicContrast: 0.3947538104839623
+purpose: []
